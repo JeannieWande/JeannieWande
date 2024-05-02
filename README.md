@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WandeJeannie
-- 👀 I’m interested in Frontend web development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full stack web development.
+- 🌱 I’m currently learning laravel php framework and javascript
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
